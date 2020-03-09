@@ -8,7 +8,7 @@ Alternatively, if you want to use your images instead of ones comes with this re
 Require [Python 3.5+](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe) installed.
 ### Fork and clone this repository to your local machine.
 ```
-https://github.com/Tony607/object_detection_demo
+https://github.com/poornimajoshi/object_detection_satellite
 ```
 ### Install required libraries
 `pip3 install -r requirements.txt`
@@ -54,8 +54,6 @@ local_inference_test.ipynb
 Requirements:
 - Frozen TensorFlow object detection model. i.e. `frozen_inference_graph.pb` downloaded from Colab after training.
 - The modified pipeline config file used for training. Also downloaded from Colab after training.
-
-You can also opt to download my [copy](https://github.com/Tony607/object_detection_demo/releases/download/V0.1/checkpoint.zip) of those files from the GitHub Release page.
 
 Run the following Jupyter notebook locally and follow the instructions in side.
 ```

@@ -1,6 +1,6 @@
 # Train an object detection model for custom images
 
-Reference: 
+This Repo is fully adapted from this reference: 
 [How to train an object detection model easy for free](https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/) | DLology Blog
 
 
